@@ -1,0 +1,14 @@
+﻿  TDI.cpp
+D:\Usuarios\randory\Desktop\Universidad\TDI\Practicas\Source\TDI.cpp(197,20): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Usuarios\randory\Desktop\Universidad\TDI\Practicas\Source\TDI.cpp(198,20): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Test.cpp
+  Generando código...
+IMtdi_VS2022_Debug.lib(C_Matrix.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Matrix.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Image.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Image.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Trace.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Trace.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_File.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_File.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Arguments.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Arguments.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_General.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_General.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Memory.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Memory.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_String.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_String.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  TDI.vcxproj -> D:\Usuarios\randory\Desktop\Universidad\TDI\Practicas\x64\Debug\TDI.exe
